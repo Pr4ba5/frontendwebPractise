@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #3333;
+    font-family: "Poppins" ,sans-serif;
+    font-size: small;
+    line-height: 1.5;
+}
+#title{
+    text-align: center;
+    margin: 0;
+}
+header{
+    height: 100px;
+ 
+}
+
+header>p{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#img-div{
+    background-color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#img-div>p{
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
