@@ -48,7 +48,8 @@ img {
     height: auto;
     margin: 0 auto;
 }
-#image-caption{
+
+#img-caption{
     padding: 10px;
 }
 
@@ -72,9 +73,7 @@ img {
 
 
 #tribute-link {
-    display: block;
-    margin-top: 20px;
-    text-decoration: none;
+    
     color: rgb(172, 64, 239);
 }
   
