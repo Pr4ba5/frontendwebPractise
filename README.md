@@ -1,6 +1,6 @@
 # frontendwebPractise
-<h1>Welcome to mystical world of prabass</h1>
+<h1>hi</h1>
 
 <br>
 <i>lost in the world that doesn't exist.</i>
-<footer>-obito uchiha</footer>
+<footer><i>-obito uchiha</i></footer>
